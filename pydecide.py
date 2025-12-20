@@ -1,25 +1,26 @@
-import time
+from BASIC import *
 import random
-import os
 
 print("welcome to pydecide made by classic14")
-time.sleep(2)
-os.system('clear')
+time3()
+clear()
 one = input("type opinon one:")
-time.sleep(1)
 os.system('clear')
 two = input("type opinon two:")
-time.sleep(1)
-os.system('clear')
+clear()
 print("and it is...")
-time.sleep(2)
+time3()
 
 options = (one, two)
 chosen = random.choice(options)
 
 print(chosen)
-
-
+time3()
+clear()
+used()
+time3()
+clear()
+exit()
 
 
 
