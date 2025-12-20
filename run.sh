@@ -4,4 +4,4 @@ sudo apt install python3 -y
 
 echo "Python installation completed."
 
-python3 main.py
+python3 pydecide.py
