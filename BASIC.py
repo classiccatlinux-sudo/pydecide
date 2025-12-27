@@ -1,5 +1,6 @@
 #BASIC - 1.0 - FOSS - classic14
-    
+#this basic file is out of date and stuff does not work!
+
 import time
 import os
 
